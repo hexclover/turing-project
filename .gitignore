@@ -1,0 +1,10 @@
+*~
+*.bak
+*.json
+*.o
+*.pdf
+*.tar.gz
+*.json
+.cache
+.directory
+turing-project/turing
