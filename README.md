@@ -3,7 +3,7 @@ turing-project
 
 Description
 ----
-A multitape Turing machine simulator. See `programs/gcd.tm` for an example program.
+A multitape Turing machine simulator. See the `programs` directory for examples.
 
 Build Instructions
 ----

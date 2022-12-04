@@ -174,6 +174,7 @@ void debug_warning_exit() {
 #endif
 
 int main(int argc, char **argv) {
+    std::ios::sync_with_stdio(false);
 #ifdef DEBUG
     std::cerr << "\033[1;31mWARNING: DEBUG BUILD; DO NOT SUBMIT\033[0m\n"
               << std::endl;
